@@ -26,7 +26,7 @@ const latestMovies: Movie[] = [
     audio: ['Tamil', 'Telugu', 'Hindi'],
     downloads: 150000,
     likes: 25000,
-    channelName: 'TamilRockers',
+    channelName: 'Tamilpasanga',
     channelLink: 'https://example.com/tamilrockers',
     downloadLinks: [
       {
@@ -61,7 +61,7 @@ const latestMovies: Movie[] = [
     audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam'],
     downloads: 200000,
     likes: 35000,
-    channelName: 'TamilBlasters',
+    channelName: 'Tamilpasanga',
     channelLink: 'https://example.com/tamilblasters',
     downloadLinks: [
       {
@@ -96,7 +96,7 @@ const latestMovies: Movie[] = [
     audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada'],
     downloads: 180000,
     likes: 40000,
-    channelName: 'TamilMV',
+    channelName: 'Tamilpasanga',
     channelLink: 'https://example.com/tamilmv',
     downloadLinks: [
       {
@@ -131,7 +131,7 @@ const latestMovies: Movie[] = [
     audio: ['Tamil', 'Telugu', 'Hindi'],
     downloads: 120000,
     likes: 20000,
-    channelName: 'TamilYogi',
+    channelName: 'Tamilpasanga',
     channelLink: 'https://example.com/tamilyogi',
     downloadLinks: [
       {
@@ -166,7 +166,7 @@ const latestMovies: Movie[] = [
     audio: ['Tamil', 'Telugu', 'Hindi'],
     downloads: 110000,
     likes: 18000,
-    channelName: 'TamilPlay',
+    channelName: 'Tamilpasanga',
     channelLink: 'https://example.com/tamilplay',
     downloadLinks: [
       {
