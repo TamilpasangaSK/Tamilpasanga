@@ -11,6 +11,46 @@ import type { Movie } from './types';
 
 // Sample data - In a real app, this would come from an API
 const latestMovies: Movie[] = [
+
+    {
+    id: '6',
+    title: 'Hisaab Barabar',
+    description: 'Hisaab Barabar (2025) 1080p [H.265 - 1.55 GB | H.264 - 2.11 GB] 720p [H.265 - 1.25 GB | H.264 - 1.46 GB] 🎧 Tamil | Telugu | Hindi (AAC 2.0 @ 248 kb/s) 📄 ESubs - GDRIVE',
+    posterUrl: 'https://assets.gadgets360cdn.com/pricee/assets/product/202501/Hisaab_Barabar_Poster_1_1736768897.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    cast: ['R Madhavan', 'Neil Nitin Mukesh', 'Rashmi Desai', 'Kirti Kulhari'],
+    rating: 4.5,
+    duration: '1h 51m',
+    quality: ['1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 15,
+    likes: 25,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/BE6iH'
+      },
+      {
+        quality: '1080p',
+        size: '1.55 GB',
+        url: 'https://gplinks.co/Jsud'
+      },
+      {
+        quality: '720p',
+        size: '1.46 GB',
+        url: 'https://gplinks.co/MH6SaPyX'        
+      },
+      {
+        quality: '720p',
+        size: '1.25 GB',
+        url: 'https://gplinks.co/2IJT8TIW'
+      }
+    ]
+  },
   {
     id: '1',
     title: 'Thiru Manickam',
